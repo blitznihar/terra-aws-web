@@ -1,1 +1,2 @@
 variable "bucket" {}
+variable "project" {}
